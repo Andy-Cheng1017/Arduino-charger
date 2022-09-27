@@ -1,0 +1,5 @@
+(sym_lib_table
+  (lib (name 1Resource)(type Legacy)(uri ${KIPRJMOD}/1Resource.lib)(options "")(descr ""))
+  (lib (name Type-C)(type Legacy)(uri ${KIPRJMOD}/Type-C.pretty-master/Type-C.lib)(options "")(descr ""))
+  (lib (name 0805)(type Legacy)(uri ${KIPRJMOD}/0805/0805.lib)(options "")(descr ""))
+)
